@@ -1,0 +1,32 @@
+{
+  "name": "AVAM-UI",
+  "homepage": "https://github.com/vickykatoch/avam-ui",
+  "authors": [
+    "Balwinder Katoch <vickykatoch@yahoo.com>"
+  ],
+  "description": "An angular based ui framework",
+  "main": "index.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "angular",
+    "ui",
+    "ui",
+    "framework"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
